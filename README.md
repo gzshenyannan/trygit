@@ -1,2 +1,3 @@
 # trygit
 add 
+fix bugs
